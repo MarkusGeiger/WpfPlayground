@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPlayground.GUIOnly", "WpfPlayground.GUIOnly\WpfPlayground.GUIOnly.csproj", "{F12143D5-A89E-4A58-A631-B6AC752EDED5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfPlayground.GUIWithMain", "WpfPlayground.GUIWithMain\WpfPlayground.GUIWithMain.csproj", "{219DFB96-87B3-46B4-AFF1-C93B0B96C2C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F12143D5-A89E-4A58-A631-B6AC752EDED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F12143D5-A89E-4A58-A631-B6AC752EDED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F12143D5-A89E-4A58-A631-B6AC752EDED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219DFB96-87B3-46B4-AFF1-C93B0B96C2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219DFB96-87B3-46B4-AFF1-C93B0B96C2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219DFB96-87B3-46B4-AFF1-C93B0B96C2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219DFB96-87B3-46B4-AFF1-C93B0B96C2C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
